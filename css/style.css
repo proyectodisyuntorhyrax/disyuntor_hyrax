@@ -421,7 +421,7 @@ a:focus {
   margin: 45px 20px;
   width: 80%;
   min-width: 300px;
-  height: 550px;
+  height: 150%;
 }
 
 .about_card .about-detail {
@@ -433,7 +433,7 @@ a:focus {
 }
 .about_card2 .about-detail {
   padding: 2px 25px 35px 25px;
-  height: 690px;
+  height: 150%;
   -webkit-box-shadow: -1px 0px 25px 9px rgba(0, 0, 0, 0.09);
   -moz-box-shadow: -1px 0px 25px 9px rgba(0, 0, 0, 0.09);
   box-shadow: -1px 0px 25px 9px rgba(0, 0, 0, 0.09);
